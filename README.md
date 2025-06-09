@@ -11,10 +11,6 @@ This portfolio includes:
 - A fun **Birthday Invite Project** showcasing a sample birthday invitation with an image and details.
 - **Navigation links** to learn more about me and how to get in touch.
 
-## 📸 Preview
-
-![Portfolio Screenshot](./53a1ed34-6c75-4c9a-9d6a-78f784d505d4.png)
-
 ## 🌐 Live Demo
 
 Visit the live version here: [Sayeem's Portfolio](https://mohammadsayeemsadathossain.github.io/html-portfolio/)
